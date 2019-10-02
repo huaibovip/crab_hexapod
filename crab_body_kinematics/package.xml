@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<package>
+  <name>crab_body_kinematics</name>
+  <version>0.1.0</version>
+  <description>The crab_body_kinematics package</description>
+
+  <maintainer email="huaibovip@gmail.com">Charles</maintainer>
+  <license>GPLv3</license>
+  <author email="huaibovip@gmail.com">Charles</author>
+
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <build_depend>orocos_kdl</build_depend>
+  <build_depend>roscpp</build_depend>
+  <build_depend>rospy</build_depend>
+  <build_depend>std_msgs</build_depend>
+  <build_depend>kdl_parser</build_depend>
+  <build_depend>crab_msgs</build_depend>
+
+  <run_depend>orocos_kdl</run_depend>
+  <run_depend>roscpp</run_depend>
+  <run_depend>rospy</run_depend>
+  <run_depend>std_msgs</run_depend>
+  <run_depend>kdl_parser</run_depend>
+  <run_depend>crab_msgs</run_depend>
+
+  <export>
+
+  </export>
+
+</package>
