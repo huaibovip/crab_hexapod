@@ -2,9 +2,9 @@
 Crab is a ROS-based hexapod robot.
 
 ## 3D printed Hexapod  
-![hexapod demo](./dependencies/img/AI-Hexapod.png)
-![hexapod demo](./dependencies/img/hexapod1.png)
+![hexapod demo](./dependencies/AI-Hexapod.png)
+![hexapod demo](./dependencies/hexapod1.png)
 
 ## Video
 
-![hexapod demo](./dependencies/img/hexapod.gif)
+![hexapod demo](./dependencies/hexapod.gif)
